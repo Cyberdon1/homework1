@@ -1,0 +1,41 @@
+h1 {
+  color: black;
+  text-align: center;
+
+}
+
+}
+
+p {
+    font-style: italic;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
+.import
+{
+  font-weight: bold;}
+  p.important {
+    font-size: 24px;
+
+  }
+  img.main {
+    float: left;
+  }
+
+  .main {
+    margin: 12px;
+    border: 2px solid blue;
+    padding: 4px;
+    background-color: black;
+  }
+
+}
+.jumbotron{
+font-weight: bold;
+}
+.well{
+
+}
