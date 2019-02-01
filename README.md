@@ -1,11 +1,28 @@
-# homework1,
-"my first homework assignment"
-This is a profile showing some information about me and the work i have done so far.
+# _{"my first homework assignment"}_
 
-Here are some instructions on how to see the repo:
+#### _{This is a profile showing some information about me and the work i have done so far.
+}, {1/31/2019}_
 
-first you will need to clone it then open a http in the top part of the clone and then open it in firefox or what ever browser you use.
+#### By _**{List of contributors}**_
 
-here is a link to this prodgect, https://github.com/Cyberdon1/homework1.
+## Description
 
-Copyright (c) 2015 **_{donavan stokes}_**
+_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+
+## Setup/Installation Requirements
+
+* __first you will need to clone it
+* __then open a http in the top part of the clone
+* __ and then open it in firefox or what ever browser you use.
+
+## Support and contact details
+
+If you have any problems or questions you can reach me at doctordonavans@gmail.com.
+
+## Technologies Used
+
+_this webpage uses css html and bootstrap._
+
+### License
+
+Copyright (c) 2015 **_{Donavan stokes}_**# homework1,
